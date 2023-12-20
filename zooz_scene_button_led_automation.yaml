@@ -43,6 +43,7 @@ blueprint:
         The each scene controller button generates an event that is used<br>
         to control the light switch entity.<br><br>
         Select one of the four values depending one which scene button will control the light switch:<br>
+          * Large button (switch) is 005<br>
           * Scene button 1 is 001,<br>
           * Scene button 2 is 002,<br>
           * Scene button 3 is 003,<br>
